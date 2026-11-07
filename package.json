@@ -1,0 +1,11 @@
+{
+  "name": "adhkar-ts-hisn-muslim-indexer",
+  "version": "1.0.0",
+  "description": "Hisn Al-Muslim (Fortress of the Muslim) 132-Chapter Authenticated Index (مفهرس حصن المسلم الموضوعي بالأسانيد الصحيحة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
